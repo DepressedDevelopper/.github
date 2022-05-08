@@ -11,7 +11,7 @@ Read the community guidelines and how to contributes for more information!
 ---
 
 ### Link:
-- 🌐[My website](http://depressed-developer.software/)
+- 🌐[My website](https://depressed-developer.software/)
 - 🌐[Ttiki's HUB](https://ttiki-hub.me)
 - 📹[My YouTube channel](https://www.youtube.com/channel/UCNH8FQEkzi_lACyWFBLYpug/)
 
