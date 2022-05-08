@@ -8,8 +8,10 @@ Plus, I'm using these videos to improve my English speaking...
 
 Read the community guidelines and how to contributes for more information!
 
+---
+
 ### Link:
-- 🌐[My website](http://depresseddevelloper.software/)
+- 🌐[My website](http://depressed-developer.software/)
 - 🌐[Ttiki's HUB](https://ttiki-hub.me)
 - 📹[My YouTube channel](https://www.youtube.com/channel/UCNH8FQEkzi_lACyWFBLYpug/)
 
